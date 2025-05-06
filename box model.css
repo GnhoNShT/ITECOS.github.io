@@ -1,0 +1,64 @@
+.sc{
+    background-color: blue;
+    margin-bottom:0;
+}
+.text{
+    margin-right: 2.5%;
+}
+.color{
+    margin-right: 3%;
+}
+#LogoHome{
+    margin-left: 1%;
+}
+
+#contenido{
+    background-color: red;
+    width: 90%;
+    justify-self: center;
+    margin-bottom: 3%;
+    display: flex;
+
+}
+#textoh1{
+    text-align: center;
+}
+#texto1{
+    width: 85%;
+    background-color: blue;
+
+}
+#textoh2{
+    text-align: center;
+}
+#texto2{
+    background-color: blue;
+    width: 85%;
+}
+#foto{
+    
+}
+
+footer{
+    background-color: red;
+    padding: 2% 0 19% 0 ;
+}
+#f1{
+    background-color: blue;
+    width: 25%;
+    text-align: center;
+    height: 230px;
+    float: left;
+    margin-left: 3%;
+}
+#f2{
+    background-color: blue;
+    width: 40%;
+    text-align: center;
+    height: 230px;
+    float: right;
+    margin-right: 3%;
+}
+#pie{
+    vertical-align: middle;
+}

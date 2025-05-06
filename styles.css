@@ -1,0 +1,52 @@
+p{
+    font-size: 20;
+}
+a{
+    text-decoration: none;
+    font-size: 19;
+}
+.color{
+    color: black;
+}
+.accesos{
+    font-size: 140%;
+}
+#Correo{
+    width: 3%;
+    height: 3%;
+    vertical-align: middle;
+    margin-right: 7px;
+}
+#WhatsApp{
+    width: 3%;
+    height: 3%;
+    vertical-align: middle;
+    margin-left: 1%;
+}
+.text{
+    color: black;
+    font-size: 130%;
+}
+#LogoHome{
+    width: 7%;
+    height: 7%;
+    vertical-align: middle;
+}
+.contenio{
+    font-size: 150%;
+    color: black;
+    text-decoration: underline;
+}
+.Contenio{
+    font-size: 175%;
+}
+#texto1{
+    font-size: 125%;
+    text-align: center;
+    justify-self: center;
+}
+#texto2{
+    font-size: 125%;
+    text-align: center;
+    justify-self: center;
+}
